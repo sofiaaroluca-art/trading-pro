@@ -1,0 +1,36 @@
+# ==========================================
+# SISTEMA TRADING PRO - Dependencias
+# ==========================================
+
+# Conexión y datos
+requests>=2.28.0
+websocket-client>=1.4.0
+
+# Análisis de datos
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Indicadores técnicos
+ta>=0.10.0
+
+# Machine Learning (para después)
+scikit-learn>=1.1.0
+
+# Web Framework
+fastapi>=0.100.0
+uvicorn[standard]>=0.22.0
+
+# Base de datos
+sqlalchemy>=2.0.0
+
+# Gráficas
+plotly>=5.15.0
+
+# Alertas Windows
+plyer>=2.1.0
+
+# WebSocket
+websockets>=11.0
+
+# Utilidades
+python-multipart>=0.0.6
