@@ -23,9 +23,6 @@ Sistema profesional de trading Forex con gráficos en tiempo real estilo IQ Opti
 ## 📦 Instalación
 
 ```bash
-# Clonar repositorio
-git clone https://github.com/sofiaaroluca-art/trading-pro.git
-cd trading-pro
 
 # Instalar dependencias
 pip install -r requirements.txt
